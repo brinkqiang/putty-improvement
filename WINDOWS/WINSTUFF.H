@@ -5,6 +5,7 @@
 #ifndef PUTTY_WINSTUFF_H
 #define PUTTY_WINSTUFF_H
 
+#define SECURITY_WIN32
 #ifndef AUTO_WINSOCK
 #include <winsock2.h>
 #endif
